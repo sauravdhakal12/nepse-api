@@ -94,4 +94,4 @@ const getCompanyInfo = async (symbol) => {
 
 
 // USAGE: getCompanyInfo("Symbol")
-getCompanyInfo("NICA");
+getCompanyInfo("HRL");
